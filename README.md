@@ -3,7 +3,7 @@ Thermomechanically triggered multi-transformability of a single mesostructure wi
 
 
 Authors:
-Chao Song, Bihui Zou, Zhiming Cui, Zihe Liang, Jaehyung Ju 
+Chao Song, Bihui Zou, Zhiming Cui, Zihe Liang, Jaehyung Ju*
 
 
 Abstract:
